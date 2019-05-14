@@ -1,0 +1,238 @@
+# XBMC Media Center language file
+# Addon Name: LiveTV
+# Addon id: plugin.video.livetv
+# Addon Provider: samui darwin
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#33001"
+msgid "/enx"
+msgstr "/tr"
+
+msgctxt "#33002"
+msgid "January"
+msgstr "ocak"
+
+msgctxt "#33003"
+msgid "February"
+msgstr "şubat"
+
+msgctxt "#33004"
+msgid "March"
+msgstr "mart"
+
+msgctxt "#33005"
+msgid "April"
+msgstr "nisan"
+
+msgctxt "#33006"
+msgid "May"
+msgstr "mayıs"
+
+msgctxt "#33007"
+msgid "June"
+msgstr "haziran"
+
+msgctxt "#33008"
+msgid "July"
+msgstr "temmuz"
+
+msgctxt "#33009"
+msgid "August"
+msgstr "ağustos"
+
+msgctxt "#33010"
+msgid "September"
+msgstr "eylül"
+
+msgctxt "#33011"
+msgid "October"
+msgstr "ekim"
+
+msgctxt "#33012"
+msgid "November"
+msgstr "kasım"
+
+msgctxt "#33013"
+msgid "December"
+msgstr "aralık"
+
+msgctxt "#33014"
+msgid "?"
+msgstr "?"
+
+msgctxt "#33015"
+msgid "Russian"
+msgstr "Rus"
+
+msgctxt "#33016"
+msgid "English"
+msgstr "İngilizce"
+
+msgctxt "#33017"
+msgid "Ukrainian"
+msgstr "Ukrayna"
+
+msgctxt "#33018"
+msgid "Dutch"
+msgstr "Hollandali"
+
+msgctxt "#33019"
+msgid "Arab"
+msgstr "Arapça"
+
+msgctxt "#33020"
+msgid "Chinese"
+msgstr "Çinli"
+
+msgctxt "#33021"
+msgid "Spanish"
+msgstr "İspanyolca"
+
+msgctxt "#33022"
+msgid "Polish"
+msgstr "Polonya"
+
+msgctxt "#33023"
+msgid "Portuguese"
+msgstr "Portekiz"
+
+msgctxt "#33024"
+msgid "Turkish"
+msgstr "Türk"
+
+msgctxt "#33025"
+msgid "French"
+msgstr "Fransiz"
+
+msgctxt "#33026"
+msgid "Italian"
+msgstr "İtalyan"
+
+msgctxt "#33027"
+msgid "German"
+msgstr "Alman"
+
+msgctxt "#33028"
+msgid "Romanian"
+msgstr "Romen"
+
+msgctxt "#33029"
+msgid "Israeli"
+msgstr "İsrailli"
+
+msgctxt "#33030"
+msgid "Bulgarian"
+msgstr "Bulgar"
+
+msgctxt "#33031"
+msgid "Slovak"
+msgstr "Slovakça"
+
+msgctxt "#33032"
+msgid "No Audio"
+msgstr "Ses Olmadan"
+
+msgctxt "#33033"
+msgid "??"
+msgstr "??"
+
+msgctxt "#33034"
+msgid "Danish"
+msgstr "Danimarkali"
+
+msgctxt "#33035"
+msgid "Finnish"
+msgstr "Fince"
+
+msgctxt "#33036"
+msgid "Swedish"
+msgstr "İsveç"
+
+msgctxt "#33037"
+msgid "Azerbaijani"
+msgstr "Azeri"
+
+msgctxt "#33038"
+msgid "Georgian"
+msgstr "Gürcü"
+
+msgctxt "#33039"
+msgid "Czech"
+msgstr "Çek"
+
+msgctxt "#33040"
+msgid "Tajik"
+msgstr "Tacikler"
+
+msgctxt "#33041"
+msgid "Slovak"
+msgstr "Slovakça"
+
+msgctxt "#33042"
+msgid "Greek"
+msgstr "Yunan"
+
+msgctxt "#33043"
+msgid "Croatian"
+msgstr "Hirvat"
+
+msgctxt "#33044"
+msgid "Belarusian"
+msgstr "Belarusça"
+
+msgctxt "#33045"
+msgid "Korean"
+msgstr "Koreli"
+
+msgctxt "#33046"
+msgid "Japanese"
+msgstr "Japon"
+
+msgctxt "#33047"
+msgid "Jordanian"
+msgstr "Jordano'nin"
+
+msgctxt "#33048"
+msgid "Latvian"
+msgstr "Letonyali"
+
+msgctxt "#33049"
+msgid "Lithuanian"
+msgstr "Litvanyali"
+
+msgctxt "#33050"
+msgid "Armenian"
+msgstr "Ermeni"
+
+msgctxt "#33051"
+msgid "Kazakh"
+msgstr "Kazak"
+
+msgctxt "#33052"
+msgid "Moldavian"
+msgstr "Buğdanli"
+
+msgctxt "#33053"
+msgid "Norwegian"
+msgstr "Norveçli"
+
+msgctxt "#33054"
+msgid "Result "
+msgstr "Sonuç "
+
+msgctxt "#33055"
+msgid "Without results"
+msgstr "Sonuç yok"
+
+msgctxt "#33056"
+msgid "LiveStreams are currently not available for this broadcast"
+msgstr "LiveStream bu yayın için uygun değil"

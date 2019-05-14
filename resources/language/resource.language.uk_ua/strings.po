@@ -1,0 +1,238 @@
+# XBMC Media Center language file
+# Addon Name: LiveTV
+# Addon id: plugin.video.livetv
+# Addon Provider: samui darwin
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#33001"
+msgid "/enx"
+msgstr "/ua"
+
+msgctxt "#33002"
+msgid "January"
+msgstr "січень"
+
+msgctxt "#33003"
+msgid "February"
+msgstr "лютий"
+
+msgctxt "#33004"
+msgid "March"
+msgstr "марш"
+
+msgctxt "#33005"
+msgid "April"
+msgstr "квітень"
+
+msgctxt "#33006"
+msgid "May"
+msgstr "травень"
+
+msgctxt "#33007"
+msgid "June"
+msgstr "червень"
+
+msgctxt "#33008"
+msgid "July"
+msgstr "липень"
+
+msgctxt "#33009"
+msgid "August"
+msgstr "серпень"
+
+msgctxt "#33010"
+msgid "September"
+msgstr "вересень"
+
+msgctxt "#33011"
+msgid "October"
+msgstr "жовтень"
+
+msgctxt "#33012"
+msgid "November"
+msgstr "листопад"
+
+msgctxt "#33013"
+msgid "December"
+msgstr "грудень"
+
+msgctxt "#33014"
+msgid "?"
+msgstr "?"
+
+msgctxt "#33015"
+msgid "Russian"
+msgstr "Російська"
+
+msgctxt "#33016"
+msgid "English"
+msgstr "Англійська"
+
+msgctxt "#33017"
+msgid "Ukrainian"
+msgstr "Українська"
+
+msgctxt "#33018"
+msgid "Dutch"
+msgstr "Голландська"
+
+msgctxt "#33019"
+msgid "Arab"
+msgstr "Арабська"
+
+msgctxt "#33020"
+msgid "Chinese"
+msgstr "Китайська"
+
+msgctxt "#33021"
+msgid "Spanish"
+msgstr "Іспанська"
+
+msgctxt "#33022"
+msgid "Polish"
+msgstr "Польська"
+
+msgctxt "#33023"
+msgid "Portuguese"
+msgstr "Португальська"
+
+msgctxt "#33024"
+msgid "Turkish"
+msgstr "Турецька"
+
+msgctxt "#33025"
+msgid "French"
+msgstr "Французька"
+
+msgctxt "#33026"
+msgid "Italian"
+msgstr "Італійська"
+
+msgctxt "#33027"
+msgid "German"
+msgstr "Німецька"
+
+msgctxt "#33028"
+msgid "Romanian"
+msgstr "Румунська"
+
+msgctxt "#33029"
+msgid "Israeli"
+msgstr "Ізраїльська"
+
+msgctxt "#33030"
+msgid "Bulgarian"
+msgstr "Болгарська"
+
+msgctxt "#33031"
+msgid "Slovak"
+msgstr "Словацька"
+
+msgctxt "#33032"
+msgid "No Audio"
+msgstr "Без Звуку"
+
+msgctxt "#33033"
+msgid "??"
+msgstr "??"
+
+msgctxt "#33034"
+msgid "Danish"
+msgstr "Данська"
+
+msgctxt "#33035"
+msgid "Finnish"
+msgstr "Фінська"
+
+msgctxt "#33036"
+msgid "Swedish"
+msgstr "Шведська"
+
+msgctxt "#33037"
+msgid "Azerbaijani"
+msgstr "Азербайджанська"
+
+msgctxt "#33038"
+msgid "Georgian"
+msgstr "Грузинська"
+
+msgctxt "#33039"
+msgid "Czech"
+msgstr "Чеська"
+
+msgctxt "#33040"
+msgid "Tajik"
+msgstr "Таджицький"
+
+msgctxt "#33041"
+msgid "Slovak"
+msgstr "Словацька"
+
+msgctxt "#33042"
+msgid "Greek"
+msgstr "Грецька"
+
+msgctxt "#33043"
+msgid "Croatian"
+msgstr "Хорватська"
+
+msgctxt "#33044"
+msgid "Belarusian"
+msgstr "Білоруська"
+
+msgctxt "#33045"
+msgid "Korean"
+msgstr "Корейська"
+
+msgctxt "#33046"
+msgid "Japanese"
+msgstr "Японська"
+
+msgctxt "#33047"
+msgid "Jordanian"
+msgstr "Йорданець"
+
+msgctxt "#33048"
+msgid "Latvian"
+msgstr "Латвійська"
+
+msgctxt "#33049"
+msgid "Lithuanian"
+msgstr "Литовська"
+
+msgctxt "#33050"
+msgid "Armenian"
+msgstr "Вірменська"
+
+msgctxt "#33051"
+msgid "Kazakh"
+msgstr "Казахський"
+
+msgctxt "#33052"
+msgid "Moldavian"
+msgstr "Молдавська"
+
+msgctxt "#33053"
+msgid "Norwegian"
+msgstr "Норвезька"
+
+msgctxt "#33054"
+msgid "Result "
+msgstr "Підсумок гри "
+
+msgctxt "#33055"
+msgid "Without results"
+msgstr "Немає результатів"
+
+msgctxt "#33056"
+msgid "LiveStreams are currently not available for this broadcast"
+msgstr "Прямий ефір не доступний для цієї трансляції"

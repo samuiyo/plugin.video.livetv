@@ -1,0 +1,238 @@
+# XBMC Media Center language file
+# Addon Name: LiveTV
+# Addon id: plugin.video.livetv
+# Addon Provider: samui darwin
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#33001"
+msgid "/enx"
+msgstr "/pt"
+
+msgctxt "#33002"
+msgid "January"
+msgstr "Janeiro"
+
+msgctxt "#33003"
+msgid "February"
+msgstr "Fevereiro"
+
+msgctxt "#33004"
+msgid "March"
+msgstr "Março"
+
+msgctxt "#33005"
+msgid "April"
+msgstr "Abril"
+
+msgctxt "#33006"
+msgid "May"
+msgstr "Maio"
+
+msgctxt "#33007"
+msgid "June"
+msgstr "Junho"
+
+msgctxt "#33008"
+msgid "July"
+msgstr "Julho"
+
+msgctxt "#33009"
+msgid "August"
+msgstr "Agosto"
+
+msgctxt "#33010"
+msgid "September"
+msgstr "Setembro"
+
+msgctxt "#33011"
+msgid "October"
+msgstr "Outubro"
+
+msgctxt "#33012"
+msgid "November"
+msgstr "Novembro"
+
+msgctxt "#33013"
+msgid "December"
+msgstr "Dezembro"
+
+msgctxt "#33014"
+msgid "?"
+msgstr "?"
+
+msgctxt "#33015"
+msgid "Russian"
+msgstr "Russo"
+
+msgctxt "#33016"
+msgid "English"
+msgstr "Inglês"
+
+msgctxt "#33017"
+msgid "Ukrainian"
+msgstr "Ucraniano"
+
+msgctxt "#33018"
+msgid "Dutch"
+msgstr "Dutch"
+
+msgctxt "#33019"
+msgid "Arab"
+msgstr "Árabe"
+
+msgctxt "#33020"
+msgid "Chinese"
+msgstr "Chinês"
+
+msgctxt "#33021"
+msgid "Spanish"
+msgstr "Espanhol"
+
+msgctxt "#33022"
+msgid "Polish"
+msgstr "Polonês"
+
+msgctxt "#33023"
+msgid "Portuguese"
+msgstr "Português"
+
+msgctxt "#33024"
+msgid "Turkish"
+msgstr "Turco"
+
+msgctxt "#33025"
+msgid "French"
+msgstr "Francês"
+
+msgctxt "#33026"
+msgid "Italian"
+msgstr "Italiano"
+
+msgctxt "#33027"
+msgid "German"
+msgstr "Alemão"
+
+msgctxt "#33028"
+msgid "Romanian"
+msgstr "Romeno"
+
+msgctxt "#33029"
+msgid "Israeli"
+msgstr "Israelense"
+
+msgctxt "#33030"
+msgid "Bulgarian"
+msgstr "Búlgaro"
+
+msgctxt "#33031"
+msgid "Slovak"
+msgstr "Eslovaco"
+
+msgctxt "#33032"
+msgid "No Audio"
+msgstr "Sem Áudio"
+
+msgctxt "#33033"
+msgid "??"
+msgstr "??"
+
+msgctxt "#33034"
+msgid "Danish"
+msgstr "Dinamarquês"
+
+msgctxt "#33035"
+msgid "Finnish"
+msgstr "Finlandês"
+
+msgctxt "#33036"
+msgid "Swedish"
+msgstr "Sueco"
+
+msgctxt "#33037"
+msgid "Azerbaijani"
+msgstr "Azerbaijanês"
+
+msgctxt "#33038"
+msgid "Georgian"
+msgstr "Georgiano"
+
+msgctxt "#33039"
+msgid "Czech"
+msgstr "Tcheco"
+
+msgctxt "#33040"
+msgid "Tajik"
+msgstr "Tadjique"
+
+msgctxt "#33041"
+msgid "Slovak"
+msgstr "Eslovaco"
+
+msgctxt "#33042"
+msgid "Greek"
+msgstr "Grego"
+
+msgctxt "#33043"
+msgid "Croatian"
+msgstr "Croata"
+
+msgctxt "#33044"
+msgid "Belarusian"
+msgstr "Bielorrusso"
+
+msgctxt "#33045"
+msgid "Korean"
+msgstr "Coreano"
+
+msgctxt "#33046"
+msgid "Japanese"
+msgstr "Japonês"
+
+msgctxt "#33047"
+msgid "Jordanian"
+msgstr "Jordaniano"
+
+msgctxt "#33048"
+msgid "Latvian"
+msgstr "Letão"
+
+msgctxt "#33049"
+msgid "Lithuanian"
+msgstr "Lituano"
+
+msgctxt "#33050"
+msgid "Armenian"
+msgstr "Armênio"
+
+msgctxt "#33051"
+msgid "Kazakh"
+msgstr "Cazaque"
+
+msgctxt "#33052"
+msgid "Moldavian"
+msgstr "Moldavo"
+
+msgctxt "#33053"
+msgid "Norwegian"
+msgstr "Norueguês"
+
+msgctxt "#33054"
+msgid "Result "
+msgstr "Resultado "
+
+msgctxt "#33055"
+msgid "Without results"
+msgstr "Nenhum resultado"
+
+msgctxt "#33056"
+msgid "LiveStreams are currently not available for this broadcast"
+msgstr "LiveStream não está disponível para esta transmissão"
