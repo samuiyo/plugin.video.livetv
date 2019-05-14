@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.livetv" name="LiveTV" version="1.0.1" provider-name="samui darwin">
+	<requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+		<import addon="script.module.beautifulsoup" version="3.0.8"/>
+		<import addon="script.module.requests" version="2.4.3"/>
+		<import addon="program.plexus" version="0.1.4"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="bg">[B]Добре дошли в LiveTV.</summary>
+		<description lang="bg">[CR]Телевизията на живо позволява да се следват многобройни спортни събития на живо, включително футболни мачове или важни спортни събития като НХЛ, НБА или Олимпийските игри. P2P технологията играе ключова роля, което ви позволява да виждате предавания на медии и високо качество напълно безплатно.</description>
+		<summary lang="de">[B]Willkommen bei LiveTV.</summary>
+		<description lang="de">[CR]Mit Live-TV können Sie zahlreiche Live-Sportereignisse verfolgen, darunter Fußballspiele oder wichtige Sportereignisse wie die NHL, die NBA oder die Olympischen Spiele. Die P2P-Technologie spielt eine Schlüsselrolle und ermöglicht es Ihnen, Sendungen von Medien und hoher Qualität völlig kostenlos zu sehen.</description>
+		<summary lang="en">[B]Welcome to LiveTV.</summary>
+		<description lang="en">[CR]Live TV makes it possible to follow numerous live sporting events, including soccer matches, or important sports events, such as the NHL, the NBA or Olimpic Games. P2P technology plays a key role, allowing you to see broadcasts of media and high quality completely free.</description>
+		<summary lang="es">[B]Bienvenidos a LiveTV.</summary>
+		<description lang="es">[CR]Live TV posibilita seguir numerosos eventos deportivos en directo, incluyendo partidos de fútbol, o acontecimientos importantes del deporte, como la NHL, la NBA o los Juegos Olímpicos. La tecnología P2P desempeña un papel clave, que le permite ver difusiones de media y alta calidad completamente gratis.</description>
+		<summary lang="fr">[B]Bienvenue sur LiveTV.</summary>
+		<description lang="fr">[CR]Live TV permet de suivre de nombreux événements sportifs en direct, notamment des matches de football, ou des événements sportifs importants, tels que la LNH, la NBA ou les Jeux olympiques. La technologie P2P joue un rôle clé, vous permettant de visionner des émissions de média de haute qualité et entièrement gratuites.</description>
+		<summary lang="it">[B]Benvenuto su LiveTV.</summary>
+		<description lang="it">[CR]La diretta TV consente di seguire numerosi eventi sportivi in diretta, tra cui partite di calcio o eventi sportivi importanti, come la NHL, la NBA o i Giochi Olimpici. La tecnologia P2P gioca un ruolo chiave, permettendoti di vedere trasmissioni di media e alta qualità completamente gratuiti.</description>
+		<summary lang="pl">[B]Witamy w LiveTV.</summary>
+		<description lang="pl">[CR]Telewizja na żywo umożliwia śledzenie licznych wydarzeń sportowych na żywo, w tym meczów piłki nożnej lub ważnych wydarzeń sportowych, takich jak NHL, NBA lub Igrzyska Olimpijskie. Technologia P2P odgrywa kluczową rolę, umożliwiając oglądanie transmisji multimedialnych i wysokiej jakości całkowicie za darmo.</description>
+		<summary lang="pt">[B]Bem vindo ao LiveTV.</summary>
+		<description lang="pt">[CR]A TV ao vivo possibilita acompanhar vários eventos esportivos ao vivo, incluindo partidas de futebol ou importantes eventos esportivos, como a NHL, a NBA ou os Jogos Olímpicos. A tecnologia P2P desempenha um papel fundamental, permitindo que você veja transmissões de mídia e alta qualidade completamente grátis.</description>
+		<summary lang="ru">[B]Добро пожаловать в LiveTV.</summary>
+		<description lang="ru">[CR]Live TV позволяет следить за многочисленными спортивными событиями в прямом эфире, включая футбольные матчи или важные спортивные события, такие как НХЛ, НБА или Олимпийские игры. Технология P2P играет ключевую роль, позволяя вам просматривать трансляции медиа и высококачественные материалы совершенно бесплатно.</description>
+		<summary lang="sr">[B]Velcome to LiveTV.</summary>
+		<description lang="sr">[CR]Live TV čini moguće pratiti uživo sportskih događaja brojni, uključujući fudbalskim utakmicama, sportskih manifestacija i važan, NHL : kao što su, u NBA ili Olimpijskim igrama. P2p tehnologija igra ključnu ulogu, što vam omogućava da vidite emitovanja srednjeg i visokog kvaliteta potpuno besplatno.</description>
+		<summary lang="tr">[B]LiveTV'ye hoş geldiniz.</summary>
+		<description lang="tr">[CR]Canlı TV, futbol maçları veya NHL, NBA veya Olimpic Games gibi önemli spor etkinlikleri dahil olmak üzere çok sayıda canlı spor etkinliğini izlemenizi sağlar. P2P teknolojisi, medya yayınlarını ve yüksek kalitede tamamen ücretsiz görmenizi sağlayan kilit bir rol oynar.</description>
+		<summary lang="uk">[B]Ласкаво просимо до LiveTV.</summary>
+		<description lang="uk">[CR]Телеканал Live дозволяє відслідковувати численні спортивні заходи, включаючи футбольні матчі або важливі спортивні події, наприклад, НХЛ, НБА або Олімпійські ігри. Технологія P2P відіграє ключову роль, дозволяючи переглядати передачі медіа та високу якість абсолютно безкоштовно.</description>
+		<disclaimer></disclaimer>
+		<news lang="en">1.0.1 (2019-04-30)[CR] - Added Multilingual support (bg_BG,de_DE,en_GB,es_ES,fr_FR,it_IT,pl_PL,pt_PT,ru_RU,sr_RS@latin,tr_TR,uk_UA).</news>
+		<news lang="en">1.0.0 (2019-03-15)[CR] - Initial release.</news>
+		<platform>all</platform>
+		<language>bg de en es fr it pl pt ru sr tr uk</language>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<forum></forum>
+		<website>http://livetv.sx</website>
+		<source>https://github.com/samuiyo/plugin.video.livetv</source>
+		<email></email>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/xxx01.jpg</screenshot>
+			<screenshot>resources/xxx02.jpg</screenshot>
+			<screenshot>resources/xxx03.jpg</screenshot>
+			<screenshot>resources/xxx04.jpg</screenshot>
+		</assets>
+	</extension>
+</addon>
